@@ -1,0 +1,11 @@
+
+zoom in and out ???
+
+lapmps 
+
+right click obj menu 
+        input output
+        name 
+        state
+
+rotate obj press R and click 
