@@ -1,6 +1,7 @@
 # Logic Gate Simulator in Python (Pygame)
 
 This project is a logic gate simulator developed using Python and the Pygame library. It allows users to experiment with basic and complex logic gate configurations and visually understand how different gates operate in a circuit.
+![Uploading Screen Shot 2024-04-14 at 16.12.22 PM.png…]()
 
 ## Features
 
